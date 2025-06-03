@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Kaveri Kamble.  
-### Junior C# Developer | .NET Enthusiast | Lifelong Learner
+### Junior C# Developer | Lifelong Learner
 
 I'm a Junior C# Developer with a solid foundation in object-oriented programming and experience in building desktop applications and RESTful APIs using the .NET ecosystem. With a recent completion of a 12-week Software Development Bootcamp at Althaus Digital and self-driven projects, I'm actively seeking a junior developer role where I can grow, contribute, and collaborate on meaningful software projects.
 
