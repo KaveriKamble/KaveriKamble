@@ -5,7 +5,7 @@ I'm a Junior C# Developer with a solid foundation in object-oriented programming
 
 ---
 
-## 💻 QsTech Stack & Skills
+## 💻 Tech Stack & Skills
 
 **Languages & Frameworks**  
 - C#, .NET Framework, .NET Core  
